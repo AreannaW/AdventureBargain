@@ -1,0 +1,14 @@
+C:\Users\Windows\OneDrive\Documents\Programing\Adventure\Adventure\bin\Debug\netcoreapp3.1\Adventure.exe
+C:\Users\Windows\OneDrive\Documents\Programing\Adventure\Adventure\bin\Debug\netcoreapp3.1\Adventure.deps.json
+C:\Users\Windows\OneDrive\Documents\Programing\Adventure\Adventure\bin\Debug\netcoreapp3.1\Adventure.runtimeconfig.json
+C:\Users\Windows\OneDrive\Documents\Programing\Adventure\Adventure\bin\Debug\netcoreapp3.1\Adventure.runtimeconfig.dev.json
+C:\Users\Windows\OneDrive\Documents\Programing\Adventure\Adventure\bin\Debug\netcoreapp3.1\Adventure.dll
+C:\Users\Windows\OneDrive\Documents\Programing\Adventure\Adventure\bin\Debug\netcoreapp3.1\Adventure.pdb
+C:\Users\Windows\OneDrive\Documents\Programing\Adventure\Adventure\obj\Debug\netcoreapp3.1\Adventure.csproj.AssemblyReference.cache
+C:\Users\Windows\OneDrive\Documents\Programing\Adventure\Adventure\obj\Debug\netcoreapp3.1\Adventure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\OneDrive\Documents\Programing\Adventure\Adventure\obj\Debug\netcoreapp3.1\Adventure.AssemblyInfoInputs.cache
+C:\Users\Windows\OneDrive\Documents\Programing\Adventure\Adventure\obj\Debug\netcoreapp3.1\Adventure.AssemblyInfo.cs
+C:\Users\Windows\OneDrive\Documents\Programing\Adventure\Adventure\obj\Debug\netcoreapp3.1\Adventure.csproj.CoreCompileInputs.cache
+C:\Users\Windows\OneDrive\Documents\Programing\Adventure\Adventure\obj\Debug\netcoreapp3.1\Adventure.dll
+C:\Users\Windows\OneDrive\Documents\Programing\Adventure\Adventure\obj\Debug\netcoreapp3.1\Adventure.pdb
+C:\Users\Windows\OneDrive\Documents\Programing\Adventure\Adventure\obj\Debug\netcoreapp3.1\Adventure.genruntimeconfig.cache
